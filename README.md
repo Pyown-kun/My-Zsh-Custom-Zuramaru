@@ -1,1 +1,1 @@
-# My-Zsh-Custom-Zuramaru-
+# My-Zsh-Custom-Zuramaru
